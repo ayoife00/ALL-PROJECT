@@ -1,5 +1,8 @@
 "use strict";
 
 //Create a function
-function result(myArr) {
+function result(myArr){
+
+
+}
  
