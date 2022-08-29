@@ -11,6 +11,12 @@ function result(myArr){
   }
 }
 
+//Print to the browser
+const newh1 = document.createElement('h1');
+newh1.innerHTML = result([20, 30, 14, 18, 17, 16, 20]);
+document.body.appendChild(newh1);
+
+
 
 
  
